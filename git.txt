@@ -1,0 +1,7 @@
+Command pour Git : 
+
+Ouvrir GIT bash : 
+
+Pour cloner le repository je fais : 
+
+git clone https://github.com/OlivierDaris/test.git {en mettant le lien de Github} l'endroit dans lequel se trouve mes fichiers}
